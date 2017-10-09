@@ -1,5 +1,5 @@
 # Online-product-rating
-This is an online product review/rating website. 
+This is an online product review/rating website.  
 
 The website mainly contains 5 categories of products: Video games, computers, software, electronics and clothes. Users could review the rating of each product, write their own reviews for each movie and give a rating. 
 
@@ -7,6 +7,8 @@ Under each category, the products are showed by the descending order of products
 
 The admin account is: Dexiang, password: asd12345
 
+### Tech
+HTML, CSS, Bootstrap, JS, PHP
 
 ### Installing
 copy the folder to MAMP htdocs, use MAMP phpadmin to run the sql database. 
