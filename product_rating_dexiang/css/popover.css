@@ -1,0 +1,15 @@
+
+  /* Popover Header */
+  .popover-title {
+      color: black; 
+      font-size: 14px;
+      text-align:center;
+      letter-spacing:0;
+      font-family: Montserrat, sans-serif;
+  }
+  /* Popover Body */
+  .popover-content {
+      color: black;
+      padding: 25px;
+  }
+  /* Popover Arrow */

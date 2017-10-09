@@ -1,0 +1,26 @@
+   body,div,ul,li,img{margin: 0px;padding: 0px;}
+   h1{
+    text-transform: uppercase;
+    font-family: Montserrat;
+   }
+   
+   .image{
+   	
+   	margin-right: 30px;
+    width: 150px;
+    height: 150px;
+   }
+     .title {
+    padding-top: 50px;
+    text-align: center;
+    font-weight: bold;
+  font-size: 60px;
+  text-transform: uppercase; }
+#ranking {padding-top:50px;width: auto;}
+
+ 
+#ranking hr{width: 900px;}
+#ranking table {width: 70%; margin-left: 180px;}
+#ranking .mcontent {padding-left: 15px;}
+#ranking a{color: black; text-decoration: none;}
+#ranking h1 {padding-left: 180px; }

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>rankings</title>
+    <link href="css/category_detail.css" rel="stylesheet" />
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+    <link href="css/index.css" rel="stylesheet" />
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="js/footer.js" type="text/javascript"></script>
+    <script src="js/signup.js" type="text/javascript"></script>
+    <script src="js/signin.js" type="text/javascript"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="js/category_detail.js" type="text/javascript"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body id="results" data-spy="scroll" data-target=".navbar" data-offset="50" onload='showUser();Username();'> 
+<div id="container">
+	  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="">Online Product Rating</a>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="category.html">CATEGORIES</a></li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="usermore" >MORE
+            <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              
+              <li><a href="#signin" data-toggle="modal" data-target="#signin" id="uprofile">SIGN IN</a></li>
+              <li><a href="#signup" data-toggle="modal" data-target="#signup" id="ulog">SIGN UP</a></li> 
+            </ul>
+          </li>
+        
+        </ul>
+      </div>
+    </div>
+  </nav>      
+	<div id='ranking'>
+		<div class="content" id="detail">
+
+			
+		</div>
+	</div>
+<!--footer-->
+	<footer class="text-center">
+  <a class="up-arrow" href="#myPage" data-toggle="tooltip" title="TO TOP">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+  </a><br><br>
+  <p>Dexiang Xu</p> 
+</footer>
+</div>
+</body>
+</html>

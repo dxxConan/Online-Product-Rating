@@ -1,0 +1,68 @@
+﻿   body,div,ul,li,img{margin: 0px;padding: 0px;}
+  .content {
+  background-color: black;
+  max-width: 1915px;
+  height: 950px;
+  color: white;
+   }
+  .title {padding-top: 200px;
+    padding-left: 850px;
+    font-family: Courier;
+    font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase; }
+  .form-group {padding-top: 20px;
+    padding-left: 750px;
+  margin-bottom: 24px; }
+  .checkbox {
+  display: inline-block;
+  margin-bottom: 12px;
+  line-height: 24px;
+  vertical-align: middle;
+  cursor: pointer; }
+  .label {
+  display: block;
+  cursor: pointer;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  font-family:Helvetica;
+  font-weight: 500; }
+  .text-input {
+  width: 400px;
+  height: 50px;
+  padding: 15px 15px; 
+  margin-bottom: 12px;
+  background: white;
+  border: 1px solid blue;
+  border-radius: 3px;
+   }
+   .btn {
+  background-color: aqua;
+  margin-bottom: 30px;
+  padding: 15px 15px; 
+  width: 400px;
+   font-family:Helvetica;
+  font-weight: 500;
+    }
+  .bottom {
+      margin-top: 30px;
+      margin-bottom: 30px;
+      text-align: center;
+      font-family:Helvetica;
+      font-weight: 500;
+      font-size: 20px
+  }
+  .btnlink,.btnlink:hover {
+      margin-top: 30px;
+      margin-bottom: 30px;
+      font-family:Helvetica;
+      font-weight: 500;
+      font-size: 20px
+      background-color: transparent;
+      color: white;
+      text-decoration: none;
+  }
+  .btnlink:hover {
+    color:blue;
+    text-decoration: underline; }

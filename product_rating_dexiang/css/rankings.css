@@ -1,0 +1,28 @@
+body,div,img{margin: 0px;padding: 0px; }
+ul,li{list-style: none;}
+
+
+#ranking hr{width: 900px;}
+#ranking table {width: 70%; margin-left: 180px;}
+#ranking .mcontent {padding-left: 15px;}
+#ranking a{color: black; text-decoration: none;}
+#ranking h1 {padding-left: 180px; padding-top: 40px;}
+#ranking {padding-top:10px;width: auto;}
+
+
+  footer {
+      background-color: #f5f5f5;
+      color: #f5f5f5;
+      padding: 32px;
+  }
+  footer a {
+      color: #f5f5f5;
+  }
+  footer a:hover {
+      color: #777;
+      text-decoration: none;
+  }
+.star :hover
+{
+  color: orange;
+}  

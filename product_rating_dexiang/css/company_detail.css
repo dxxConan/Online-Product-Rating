@@ -1,0 +1,37 @@
+   body,div,img{margin: 0px;padding: 0px;}
+
+
+#content {
+    margin-left: 150px;
+    margin-top: 60px;
+    width: auto;
+    height: auto;
+}
+hr{
+    width: 1000px;
+    margin-right:130px; 
+}
+#detail {
+    margin-top: 30px;
+    background-color: white;
+}
+#logo{
+    margin-top:20px; 
+}
+#info{
+    
+    margin-left:230px; 
+}
+.pl{
+	text-decoration: none;
+
+}
+img {
+    float:left;
+    margin-left: 150px;
+}
+
+.details{
+    width:600px;
+    text-align: justify;
+}

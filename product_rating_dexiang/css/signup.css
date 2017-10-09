@@ -1,0 +1,76 @@
+﻿   body,div,ul,li,img{margin: 0px;padding: 0px;}
+  .content {
+
+  max-width: 1900px;
+  height: 950px;
+   }
+   .icon {height:150px;
+    float:left;
+    margin-right:50px;
+  width:250px;
+   }
+  .title {padding-top: 200px;
+    padding-left: 650px;
+    font-family: Courier;
+    font-weight: bold;
+  font-size: 60px;
+  text-transform: uppercase; }
+  .para {
+    padding-left: 500px;
+    font-family: Courier;
+    font-size: 20px;
+   }
+  .form-group {padding-top: 20px;
+    padding-left: 750px;
+  margin-bottom: 24px; }
+  .checkbox {
+  display: inline-block;
+  margin-bottom: 12px;
+  line-height: 24px;
+  vertical-align: middle;
+  cursor: pointer; }
+  .label {
+  display: block;
+  cursor: pointer;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  font-family:Helvetica;
+  font-weight: 500; }
+  .text-input {
+  width: 400px;
+  height: 50px;
+  padding: 15px 15px; 
+  margin-bottom: 12px;
+  background: white;
+  border: 1px solid blue;
+  border-radius: 3px;
+   }
+   .btn {
+  background-color: aqua;
+  margin-bottom: 30px;
+  padding: 15px 15px; 
+  width: 400px;
+  font-family:Courier;
+  font-weight: bolder;
+    }
+  .bottom {
+      margin-top: 30px;
+      margin-bottom: 30px;
+      text-align: center;
+      font-family:Helvetica;
+      font-weight: 500;
+      font-size: 20px
+  }
+  .btnlink,.btnlink:hover {
+      margin-top: 30px;
+      margin-bottom: 30px;
+      font-family:Helvetica;
+      font-weight: 500;
+      font-size: 20px
+      background-color: transparent;
+      text-decoration: none;
+  }
+  .btnlink:hover {
+    color:blue;
+    text-decoration: underline; }

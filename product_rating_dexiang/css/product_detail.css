@@ -1,0 +1,91 @@
+   body,div,img{margin: 0px;padding: 0px;
+    }
+
+
+#content {
+    width: auto;
+    height: auto;
+    background-color: white;
+    letter-spacing: 0;
+    font-family: Montserrat, sans-serif;
+}
+#comments-section {
+    height: auto; 
+    background-color: white;
+    letter-spacing: 0;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+h1 {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-left: 80px;
+    font-size: 50px;
+    text-transform:uppercase;
+}
+h2 {
+    padding-top: 20px;
+    display: block;
+    font-size: 30px;
+    font-weight: 1000;
+    color: black;
+    padding-bottom: 20px;
+    line-height: 1.1;
+}
+h3
+{
+    letter-spacing: 0;
+}
+.pl{
+	text-decoration: none;
+}
+.image{
+float:left;
+margin-right: 40px;
+margin-left: 80px;
+width: 350px;
+height: 350px;
+}
+.users{text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: times;
+    margin-bottom: 15px;
+    color: #00BFFF;
+    margin-right: 10px;
+    letter-spacing: 0;
+}
+.votes{
+    padding-top: 17px;
+    padding-right: 10px;
+    letter-spacing: 0;
+    vertical-align: middle;
+    float:right;
+   
+}
+.times{
+    margin-right: 30px;
+}
+
+.images{
+     vertical-align: middle;
+   float:right;
+    padding-right: 50px;
+    position: relative;
+}
+.field{
+    height: 150px;
+    width: 450px;
+    margin-bottom: 30px;
+}
+.comcontent{
+    font-weight: 500;
+    font-size: 20px;
+    font-family: times;
+}
+.enter_comment input{}
+footer{
+    position: relative;
+    background-color: #2d2d30;
+    color: white;
+}

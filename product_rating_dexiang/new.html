@@ -1,0 +1,31 @@
+<DOCTYPE!>
+<html >
+<head>
+	<title>insert product</title>
+	<script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+</head>
+<body>
+	<form  method = "post" action="new.php" id="insert">
+		product name:<input type ="text" name = "productname" /><br>
+		price:<input type ="text" name = "price" /><br>
+		ratings:<input type ="text" name = "ratings" /><br>
+		origin:<input type ="text" name = "origin" /><br>
+		company:<select name="company">
+		  <option value ="Dell">Dell</option>		  
+		  <option value ="Apple">Apple</option>
+		  <option value ="Sony">Sony</option>
+		  <option value ="Nike">Nike</option>
+		  <option value ="Adidas">Adidas</option>
+		  <option value ="Microsoft">Microsoft</option>
+		</select><br>
+		category:<select name="category">
+		  <option value ="electronics">electronics</option>
+		  <option value ="computers">computers</option>
+		  <option value ="videogames">videogames</option>
+		  <option value ="software">software</option>
+		  <option value ="clothes">clothes</option>
+		</select><br>
+		<button type="submit" >Submit</button>
+		</form>
+</body>
+</html>
